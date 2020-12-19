@@ -1,4 +1,11 @@
 # User Authentication System using JWT
 
-User first register then login then only can access the content . 
-Used jwt for logged in user authentication
+
+1.[User first register with required details then login] 
+2.[Then every request is passed through custom middleware for authentication]
+
+## This is complete Backend Implementation with Database.
+
+### STACK
+1.[Node, Express,MongoDB]
+
